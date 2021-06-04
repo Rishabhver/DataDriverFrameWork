@@ -1,0 +1,14 @@
+utilities\DbManager1.class
+testCases\OpenAccountTest.class
+testCases\TestCase2.class
+utilities\ExcelReader.class
+testCases\Bank_Customer_Login.class
+utilities\DataProviderUtil.class
+testCases\TestCase1.class
+base\BaseTest.class
+utilities\ScreenshotUtils.class
+optimizedExtentReports\ExtentManager.class
+testCases\AddCustomerTest.class
+utilities\TestConfig1.class
+testCases\TestCase3.class
+optimizedExtentReports\ExtentListeners.class

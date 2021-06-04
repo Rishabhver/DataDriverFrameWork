@@ -1,0 +1,26 @@
+INFO    2021-04-19 00:10:38,389 [main] base.BaseTest  - OR file is loaded
+INFO    2021-04-19 00:10:38,391 [main] base.BaseTest  - Config file is loaded!!!!!
+INFO    2021-04-19 00:10:41,091 [main] base.BaseTest  - Chrome browser launched
+INFO    2021-04-19 00:10:43,113 [main] base.BaseTest  - Navigating to  URlhttp://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-04-19 00:10:53,375 [main] base.BaseTest  - Db connection Established
+INFO    2021-04-19 00:10:53,723 [main] base.BaseTest  - element is clicked --->BankManager_CSS
+INFO    2021-04-19 00:10:53,732 [main] base.BaseTest  - Finding ElementBankManager_AddCustomer_CSS
+INFO    2021-04-19 00:10:55,422 [main] base.BaseTest  - element is clicked --->BankManager_AddCustomer_CSS
+INFO    2021-04-19 00:10:55,875 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_FirstName_CSS and value is -->we
+INFO    2021-04-19 00:10:56,603 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_LastName_CSS and value is -->are
+INFO    2021-04-19 00:10:56,853 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_Pin_Code_CSS and value is -->Apost2
+INFO    2021-04-19 00:10:57,057 [main] base.BaseTest  - element is clicked --->BankManager_AddCustomer_Add_XPATH
+INFO    2021-04-19 00:10:58,171 [main] base.BaseTest  - element is clicked --->BankManager_AddCustomer_CSS
+INFO    2021-04-19 00:10:58,284 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_FirstName_CSS and value is -->as
+INFO    2021-04-19 00:10:58,392 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_LastName_CSS and value is -->as
+INFO    2021-04-19 00:10:58,536 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_Pin_Code_CSS and value is -->awed
+INFO    2021-04-19 00:10:58,622 [main] base.BaseTest  - element is clicked --->BankManager_AddCustomer_Add_XPATH
+INFO    2021-04-19 00:10:59,401 [main] base.BaseTest  - element is clicked --->BankManager_AddCustomer_CSS
+INFO    2021-04-19 00:10:59,542 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_FirstName_CSS and value is -->as
+INFO    2021-04-19 00:10:59,707 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_LastName_CSS and value is -->as
+INFO    2021-04-19 00:10:59,837 [main] base.BaseTest  - typinf in an elemnt-->BankManager_AddCustomer_Pin_Code_CSS and value is -->sdwe
+INFO    2021-04-19 00:10:59,937 [main] base.BaseTest  - element is clicked --->BankManager_AddCustomer_Add_XPATH
+INFO    2021-04-19 00:11:00,822 [main] base.BaseTest  - element is clicked --->BankManager_OpenAccount_Add_XPATH
+INFO    2021-04-19 00:11:01,154 [main] base.BaseTest  - element is Selected--->BankManager_OpenAccount_customerDropdown_CSS
+INFO    2021-04-19 00:11:01,387 [main] base.BaseTest  - element is Selected--->BankManager_OpenAccount_currencyDropdown_CSS
+INFO    2021-04-19 00:11:01,520 [main] base.BaseTest  - element is clicked --->BankManager_OpenAccount_process_XPATH
